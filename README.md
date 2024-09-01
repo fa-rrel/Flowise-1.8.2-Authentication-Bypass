@@ -8,3 +8,8 @@ CVE-2024-8181
 ### Source:
 Tenable Network Security, Inc.
 
+FOFA
+```bash
+"Flowise - Low-code LLM apps builder"
+```
+
