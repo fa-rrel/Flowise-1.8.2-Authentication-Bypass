@@ -8,8 +8,13 @@ CVE-2024-8181
 ### Source:
 Tenable Network Security, Inc.
 
-FOFA
+FOFA Query
 ```bash
 "Flowise - Low-code LLM apps builder"
 ```
+
+Proof of concept
+```bash
+curl -X GET http://{target.url}/api/v1/ping
+````
 
