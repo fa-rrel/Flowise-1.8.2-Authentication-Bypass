@@ -8,13 +8,17 @@ CVE-2024-8181
 ### Source:
 Tenable Network Security, Inc.
 
-FOFA Query
+✔ Use with nuclei :
+```bash
+nuclei --target http://testphp.vulnweb.com/ -t CVE-2024-8181.yaml
+```
+
+✔ FOFA Query :
 ```bash
 "Flowise - Low-code LLM apps builder"
 ```
 
-Proof of concept
+✔ Proof of concept :
 ```bash
 curl -X GET http://{target.url}/api/v1/ping
 ````
-
