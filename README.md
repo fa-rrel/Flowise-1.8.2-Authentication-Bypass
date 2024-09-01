@@ -3,8 +3,8 @@ An Authentication Bypass vulnerability exists in Flowise version 1.8.2. This cou
 
 ### CVE Dictionary Entry:
 CVE-2024-8181
-###NVD Published Date:
+### NVD Published Date:
 08/27/2024
-###Source:
+### Source:
 Tenable Network Security, Inc.
 
